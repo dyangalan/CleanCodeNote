@@ -1,5 +1,3 @@
-# CleanCodeNote
-
 # Clean Code Notes
 
 ## Table of contents
